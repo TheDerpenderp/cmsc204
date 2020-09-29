@@ -1,0 +1,1 @@
+This project was slightly harder with the encapsulation and polymorphism. other than that, i can see where using an array implementaion of a stack and queue is much harder as there are so many tiny details to account for, such as the size limit, resizing, and all the other manipulations.
